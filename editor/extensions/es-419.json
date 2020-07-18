@@ -204,7 +204,7 @@
     "matatabot.eyeLedSingleSet2": "set [SIDE] eye(s) to color [COLOR]",
     "matatabot.eyeLedSingleSet3": "set eye [LED_INDEX] red [RED_VALUE] green [GREEN_VALUE] blue [BLUE_VALUE]",
     "matatabot.eyeLedAllOff": "turn all eyes off",
-    "matatacon.lightRingLedSingleSet1": "set [LED_INDEX] LED to [COLOR_TYPE] and brightness is level [BRIGHTNESS_LEVEL]",
+    "matatacon.lightRingLedSingleSet1": "set [LED_INDEX] LED(s) to [COLOR_TYPE] and brightness is level [BRIGHTNESS_LEVEL]",
     "matatacon.ledRingIndexMenu.num1": "the 1st",
     "matatacon.ledRingIndexMenu.num2": "the 2nd",
     "matatacon.ledRingIndexMenu.num3": "the 3rd",
