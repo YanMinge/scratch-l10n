@@ -507,5 +507,9 @@
     "gui.matata.firmwareUpdatePreLable": "当前设备固件版本是: ",
     "gui.matata.firmwareUpdatePostLable": "插件无法支持当前固件版本, 需要对固件进行升级",
     "gui.matata.firmwareUpdateButtonText": "去升级",
-    "gui.menuBar.mataTutorialsLink": "玛塔教程"
+    "gui.menuBar.mataTutorialsLink": "玛塔教程",
+    "gui.extension.matatabot.description": "把作品连接到玛塔小车。",
+    "gui.extension.matatabot.connectingMessage": "正在连接",
+    "gui.extension.matatacon.description": "把作品连接到玛塔控制器。",
+    "gui.extension.matatacon.connectingMessage": "正在连接, 请确保控制器的模式是传感器模式。"
 }

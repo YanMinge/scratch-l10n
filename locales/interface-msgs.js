@@ -7593,7 +7593,11 @@ export default {
     "gui.matata.firmwareUpdatePreLable": "The version get from current hardware: ",
     "gui.matata.firmwareUpdatePostLable": "The firmware version does not match the version supported by the extension, needs to be upgraded",
     "gui.matata.firmwareUpdateButtonText": "Go to upgrade",
-    "gui.menuBar.mataTutorialsLink": "Matatalab Tutorials"
+    "gui.menuBar.mataTutorialsLink": "Matatalab Tutorials",
+    "gui.extension.matatabot.description": "Connect your projects with the MatataBot.",
+    "gui.extension.matatabot.connectingMessage": "Connecting",
+    "gui.extension.matatacon.description": "Connect your projects with the MatataCon.",
+    "gui.extension.matatacon.connectingMessage": "Connecting, Make sure the controller is in sensor mode."
   },
   "es": {
     "gui.alerts.lostPeripheralConnection": "Se ha perdido la conexión con {extensionName}.",
@@ -31886,7 +31890,11 @@ export default {
     "gui.matata.firmwareUpdatePreLable": "当前设备固件版本是: ",
     "gui.matata.firmwareUpdatePostLable": "插件无法支持当前固件版本, 需要对固件进行升级",
     "gui.matata.firmwareUpdateButtonText": "去升级",
-    "gui.menuBar.mataTutorialsLink": "玛塔教程"
+    "gui.menuBar.mataTutorialsLink": "玛塔教程",
+    "gui.extension.matatabot.description": "把作品连接到玛塔小车。",
+    "gui.extension.matatabot.connectingMessage": "正在连接",
+    "gui.extension.matatacon.description": "把作品连接到玛塔控制器。",
+    "gui.extension.matatacon.connectingMessage": "正在连接, 请确保控制器的模式是传感器模式。"
   },
   "zh-tw": {
     "gui.alerts.lostPeripheralConnection": "Scratch 與 {extensionName} 的連線中斷。",
