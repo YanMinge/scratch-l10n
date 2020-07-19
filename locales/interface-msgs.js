@@ -7592,7 +7592,8 @@ export default {
     "gui.matata.firmwareUpdate": "Device firmware version check",
     "gui.matata.firmwareUpdatePreLable": "The version get from current hardware: ",
     "gui.matata.firmwareUpdatePostLable": "The firmware version does not match the version supported by the extension, needs to be upgraded",
-    "gui.matata.firmwareUpdateButtonText": "Go to upgraded"
+    "gui.matata.firmwareUpdateButtonText": "Go to upgraded",
+    "gui.menuBar.mataTutorialsLink": "Matatalab Tutorials"
   },
   "es": {
     "gui.alerts.lostPeripheralConnection": "Se ha perdido la conexión con {extensionName}.",
@@ -31884,7 +31885,8 @@ export default {
     "gui.matata.firmwareUpdate": "固件版本检测",
     "gui.matata.firmwareUpdatePreLable": "当前设备固件版本是: ",
     "gui.matata.firmwareUpdatePostLable": "插件暂时无法支持当前固件版本, 需要对固件进行升级",
-    "gui.matata.firmwareUpdateButtonText": "去升级"
+    "gui.matata.firmwareUpdateButtonText": "去升级",
+    "gui.menuBar.mataTutorialsLink": "玛塔教程"
   },
   "zh-tw": {
     "gui.alerts.lostPeripheralConnection": "Scratch 與 {extensionName} 的連線中斷。",

@@ -506,5 +506,6 @@
     "gui.matata.firmwareUpdate": "固件版本检测",
     "gui.matata.firmwareUpdatePreLable": "当前设备固件版本是: ",
     "gui.matata.firmwareUpdatePostLable": "插件暂时无法支持当前固件版本, 需要对固件进行升级",
-    "gui.matata.firmwareUpdateButtonText": "去升级"
+    "gui.matata.firmwareUpdateButtonText": "去升级",
+    "gui.menuBar.mataTutorialsLink": "玛塔教程"
 }
