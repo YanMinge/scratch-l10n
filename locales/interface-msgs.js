@@ -7588,7 +7588,11 @@ export default {
     "gui.sharedMessages.pop": "pop",
     "gui.sharedMessages.replaceProjectWarning": "Replace contents of the current project?",
     "gui.sharedMessages.loadFromComputerTitle": "Load from your computer",
-    "gui.gui.defaultProjectTitle": "Scratch Project"
+    "gui.gui.defaultProjectTitle": "Scratch Project",
+    "gui.matata.firmwareUpdate": "Device firmware version check",
+    "gui.matata.firmwareUpdatePreLable": "The version get from current hardware: ",
+    "gui.matata.firmwareUpdatePostLable": "The firmware version does not match the version supported by the extension, needs to be upgraded",
+    "gui.matata.firmwareUpdateButtonText": "Go to upgraded"
   },
   "es": {
     "gui.alerts.lostPeripheralConnection": "Se ha perdido la conexión con {extensionName}.",
@@ -31876,7 +31880,11 @@ export default {
     "gui.sharedMessages.pop": "啵",
     "gui.sharedMessages.replaceProjectWarning": "是否丢弃当前作品中尚未保存的内容？",
     "gui.sharedMessages.loadFromComputerTitle": "从电脑中上传",
-    "gui.gui.defaultProjectTitle": "Scratch作品"
+    "gui.gui.defaultProjectTitle": "Scratch作品",
+    "gui.matata.firmwareUpdate": "固件版本检测",
+    "gui.matata.firmwareUpdatePreLable": "当前设备固件版本是: ",
+    "gui.matata.firmwareUpdatePostLable": "插件暂时无法支持当前固件版本, 需要对固件进行升级",
+    "gui.matata.firmwareUpdateButtonText": "去升级"
   },
   "zh-tw": {
     "gui.alerts.lostPeripheralConnection": "Scratch 與 {extensionName} 的連線中斷。",

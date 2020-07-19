@@ -502,5 +502,9 @@
     "gui.sharedMessages.pop": "pop",
     "gui.sharedMessages.replaceProjectWarning": "Replace contents of the current project?",
     "gui.sharedMessages.loadFromComputerTitle": "Load from your computer",
-    "gui.gui.defaultProjectTitle": "Scratch Project"
+    "gui.gui.defaultProjectTitle": "Scratch Project",
+    "gui.matata.firmwareUpdate": "Device firmware version check",
+    "gui.matata.firmwareUpdatePreLable": "The version get from current hardware: ",
+    "gui.matata.firmwareUpdatePostLable": "The firmware version does not match the version supported by the extension, needs to be upgraded",
+    "gui.matata.firmwareUpdateButtonText": "Go to upgraded"
 }
