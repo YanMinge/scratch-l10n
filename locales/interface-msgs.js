@@ -7592,7 +7592,7 @@ export default {
     "gui.matata.firmwareUpdate": "Device firmware version check",
     "gui.matata.firmwareUpdatePreLable": "The version get from current hardware: ",
     "gui.matata.firmwareUpdatePostLable": "The firmware version does not match the version supported by the extension, needs to be upgraded",
-    "gui.matata.firmwareUpdateButtonText": "Go to upgraded",
+    "gui.matata.firmwareUpdateButtonText": "Go to upgrade",
     "gui.menuBar.mataTutorialsLink": "Matatalab Tutorials"
   },
   "es": {
