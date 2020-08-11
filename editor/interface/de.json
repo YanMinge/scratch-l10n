@@ -502,5 +502,18 @@
     "gui.sharedMessages.pop": "Plopp",
     "gui.sharedMessages.replaceProjectWarning": "Inhalte des aktuellen Projektes ersetzen?",
     "gui.sharedMessages.loadFromComputerTitle": "Hochladen von deinem Computer",
-    "gui.gui.defaultProjectTitle": "Scratch-Projekt"
+    "gui.gui.defaultProjectTitle": "Scratch-Projekt",
+    "gui.modal.ok": "bestätigen",
+    "gui.modal.cancel": "abbrechen",
+    "gui.matata.firmwareUpdate": "Gerät Firmware version überprüfen",
+    "gui.matata.firmwareUpdatePreLable": "Aktuelle Firmware version des Geräts: ",
+    "gui.matata.firmwareUpdatePostLable": "Die Firmware version stimmt nicht mit der von der Erweiterung unterstützten Version überein. Bitte Firmware aktualisieren.",
+    "gui.matata.sensorModeMismatch": "MatataCon ist nicht im Sensormodus, Modus umschalten und erneut versuchen.",
+    "gui.matata.carNeedUpdateFirmware": "Aktualisiere MatataBot, das mit diesem MatataCon verbunden ist.",
+    "gui.matata.firmwareUpdateButtonText": "Gehe zur Aktualisierung",
+    "gui.menuBar.mataTutorialsLink": "Matatalab Tutorials",
+    "gui.extension.matatabot.description": "Verbinde deine Projekte mit MatataBot.",
+    "gui.extension.matatabot.connectingMessage": "Verbinde...",
+    "gui.extension.matatacon.description": "Verbinde deine Projekte mit MatataCon.",
+    "gui.extension.matatacon.connectingMessage": "Verbinde, darauf achten, dass MatataCon im Sensormodus ist."
 }

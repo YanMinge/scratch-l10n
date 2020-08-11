@@ -234,7 +234,7 @@
     "matatacon.brightnessLevelMenu.rollDice": "roll dice",
     "matatacon.lightRingLedSingleSet2": "set [LED_INDEX] LED(s) to color [COLOR_VALUE]",
     "matatacon.lightRingLedSingleSet3": "set LED [LED_INDEX] red [RED_VALUE] green [GREEN_VALUE] blue [BLUE_VALUE]",
-    "matatacon.lightRingLedSingleSet4": "set led ring light [PANEL]",
+    "matatacon.lightRingLedSingleSet4": "set LED ring light [PANEL]",
     "matatacon.lightRingShowEffect": "LED ring light show [LIGHT_EFFECT]",
     "matatacon.lightEffectMenu.spoondrift": "spoondrift",
     "matatacon.lightEffectMenu.meteor": "meteor",

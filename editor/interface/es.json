@@ -502,5 +502,18 @@
     "gui.sharedMessages.pop": "pop",
     "gui.sharedMessages.replaceProjectWarning": "¿Reemplazar el contenido del proyecto actual?",
     "gui.sharedMessages.loadFromComputerTitle": "Cargar desde tu ordenador",
-    "gui.gui.defaultProjectTitle": "Proyecto de Scratch"
+    "gui.gui.defaultProjectTitle": "Proyecto de Scratch",
+    "gui.modal.ok": "confirmar",
+    "gui.modal.cancel": "cancelar",
+    "gui.matata.firmwareUpdate": "Comprobar versión de firmware del dispositivo",
+    "gui.matata.firmwareUpdatePreLable": "La versión actual de firmare del dispostivo es: ",
+    "gui.matata.firmwareUpdatePostLable": "La versión de firmware no coincide con la versión compatible con la extensión. Actualice el firmware.",
+    "gui.matata.sensorModeMismatch": "El MatataCon no está en modo de sensor, active el modo y vuelva a intentarlo.",
+    "gui.matata.carNeedUpdateFirmware": "Actualice el MatataBot conectado a este MatataCon.",
+    "gui.matata.firmwareUpdateButtonText": "Ir a actualización",
+    "gui.menuBar.mataTutorialsLink": "Tutoriales de Matatalab",
+    "gui.extension.matatabot.description": "Conecte sus proyectos con MatataBot.",
+    "gui.extension.matatabot.connectingMessage": "Conectando...",
+    "gui.extension.matatacon.description": "Conecte sus proyectos con MatataCon.",
+    "gui.extension.matatacon.connectingMessage": "Conectando, compruebe que MatataCon esté en modo de sensor."
 }

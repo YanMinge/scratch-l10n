@@ -502,5 +502,18 @@
     "gui.sharedMessages.pop": "pop",
     "gui.sharedMessages.replaceProjectWarning": "Mevcut projenin üstüne yazayım mı?",
     "gui.sharedMessages.loadFromComputerTitle": "Bilgisayarından yükle",
-    "gui.gui.defaultProjectTitle": "Scratch Projesi"
+    "gui.gui.defaultProjectTitle": "Scratch Projesi",
+    "gui.modal.ok": "onay",
+    "gui.modal.cancel": "iptal",
+    "gui.matata.firmwareUpdate": "Cihaz yazılımı sürüm kontrolü",
+    "gui.matata.firmwareUpdatePreLable": "Geçerli cihaz yazılımı sürümü: ",
+    "gui.matata.firmwareUpdatePostLable": "Cihaz yazılımı sürümü, uzantı tarafından desteklenen sürümle eşleşmiyor. Lütfen cihaz yazılımını yükseltin.",
+    "gui.matata.sensorModeMismatch": "Matatacon sensör modunda değil, lütfen modu değiştirin ve tekrar deneyin.",
+    "gui.matata.carNeedUpdateFirmware": "Lütfen bu MatataCon'a bağlı olan MatataBot'u yükseltin.",
+    "gui.matata.firmwareUpdateButtonText": "Yükseltmeye git",
+    "gui.menuBar.mataTutorialsLink": "Matatalab Öğretici Yayınları",
+    "gui.extension.matatabot.description": "Projelerinizi MatataBot’a bağlayın.",
+    "gui.extension.matatabot.connectingMessage": "Bağlanıyor...",
+    "gui.extension.matatacon.description": "Projelerinizi MatataCon’a bağlayın.",
+    "gui.extension.matatacon.connectingMessage": "Bağlanıyor, MatataCon'un sensör modunda olduğundan emin olun."
 }

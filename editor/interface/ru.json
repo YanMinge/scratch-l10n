@@ -502,5 +502,18 @@
     "gui.sharedMessages.pop": "поп",
     "gui.sharedMessages.replaceProjectWarning": "Заменить содержимое текущего проекта?",
     "gui.sharedMessages.loadFromComputerTitle": "Загрузить с компьютера",
-    "gui.gui.defaultProjectTitle": "Проект Scratch"
+    "gui.gui.defaultProjectTitle": "Проект Scratch",
+    "gui.modal.ok": "подтвердить",
+    "gui.modal.cancel": "отменить",
+    "gui.matata.firmwareUpdate": "Проверка версии встроенного ПО на устройстве",
+    "gui.matata.firmwareUpdatePreLable": "Текущая версия встроенного ПО на устройстве: ",
+    "gui.matata.firmwareUpdatePostLable": "Версия встроенного ПО не соответствует версии, поддерживаемой расширением. Обновите встроенное ПО.",
+    "gui.matata.sensorModeMismatch": "MatataCon не находится в сенсорном режиме, переключите режим и повторите попытку.",
+    "gui.matata.carNeedUpdateFirmware": "Обновите MatataBot, подключенный к этому MatataCon.",
+    "gui.matata.firmwareUpdateButtonText": "Перейти к обновлению",
+    "gui.menuBar.mataTutorialsLink": "Руководства Matatalab",
+    "gui.extension.matatabot.description": "Подключите проекты к MatataBot.",
+    "gui.extension.matatabot.connectingMessage": "подключении...",
+    "gui.extension.matatacon.description": "Подключите проекты к MatataCon.",
+    "gui.extension.matatacon.connectingMessage": "При подключении убедитесь, что MatataCon находится в сенсорном режиме."
 }

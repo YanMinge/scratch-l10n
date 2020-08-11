@@ -502,5 +502,18 @@
     "gui.sharedMessages.pop": "ป๊อบ",
     "gui.sharedMessages.replaceProjectWarning": "แทนที่เนื้อหาของโครงงานปัจจุบันหรือไม่?",
     "gui.sharedMessages.loadFromComputerTitle": "อัปโหลดจากคอมพิวเตอร์ของคุณ",
-    "gui.gui.defaultProjectTitle": "โครงงาน Scratch"
+    "gui.gui.defaultProjectTitle": "โครงงาน Scratch",
+    "gui.modal.ok": "ยืนยัน",
+    "gui.modal.cancel": "ยกเลิก",
+    "gui.matata.firmwareUpdate": "ตรวจสอบเวอร์ชันเฟิร์มแวร์ของอุปกรณ์",
+    "gui.matata.firmwareUpdatePreLable": "เวอร์ชันเฟิร์มแวร์อุปกรณ์ปัจจุบัน: ",
+    "gui.matata.firmwareUpdatePostLable": "เวอร์ชันเฟิร์มแวร์ไม่ตรงกับเวอร์ชันที่รองรับโดยส่วนขยาย โปรดอัปเกรดเฟิร์มแวร์",
+    "gui.matata.sensorModeMismatch": "MatataCon ไม่อยู่ในโหมดเซนเซอร์ โปรดสลับโหมดแล้วลองอีกครั้ง",
+    "gui.matata.carNeedUpdateFirmware": "โปรดอัปเกรด MatataBot ที่เชื่อมต่อกับ MatataCon นี้",
+    "gui.matata.firmwareUpdateButtonText": "ไปที่อัปเกรด",
+    "gui.menuBar.mataTutorialsLink": "บทช่วยส่วน Matatalab",
+    "gui.extension.matatabot.description": "เชื่อมต่อโครงการของคุณกับ MatataBot",
+    "gui.extension.matatabot.connectingMessage": "กำลังเชื่อมต่อ...",
+    "gui.extension.matatacon.description": "เชื่อมต่อโครงการของคุณกับ MatataCon",
+    "gui.extension.matatacon.connectingMessage": "กำลังเชื่อมต่อ ตรวจสอบว่า MatataCon อยู่ในโหมดเซนเซอร์"
 }

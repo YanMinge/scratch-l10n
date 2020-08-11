@@ -508,12 +508,12 @@
     "gui.matata.firmwareUpdate": "Device firmware version check",
     "gui.matata.firmwareUpdatePreLable": "The current devices firmware version: ",
     "gui.matata.firmwareUpdatePostLable": "The firmware version does not match the version supported by the extension, needs to be upgraded.",
-    "gui.matata.sensorModeMismatch": "The matatacon is not in sensor mode, please switch the mode and try again.",
-    "gui.matata.carNeedUpdateFirmware": "Please upgrade the MatataBot which is connected to this MatataCon",
+    "gui.matata.sensorModeMismatch": "The MatataCon is not in sensor mode, please switch the mode and try again.",
+    "gui.matata.carNeedUpdateFirmware": "Please upgrade the MatataBot which is connected to this MatataCon.",
     "gui.matata.firmwareUpdateButtonText": "Go to upgrade",
     "gui.menuBar.mataTutorialsLink": "Matatalab Tutorials",
     "gui.extension.matatabot.description": "Connect your projects with the MatataBot.",
     "gui.extension.matatabot.connectingMessage": "Connecting...",
     "gui.extension.matatacon.description": "Connect your projects with the MatataCon.",
-    "gui.extension.matatacon.connectingMessage": "Connecting, Make sure the matatacon is in sensor mode."
+    "gui.extension.matatacon.connectingMessage": "Connecting, Make sure the MatataCon is in sensor mode."
 }

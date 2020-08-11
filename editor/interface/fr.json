@@ -502,5 +502,18 @@
     "gui.sharedMessages.pop": "pop",
     "gui.sharedMessages.replaceProjectWarning": "Replace contents of the current project?",
     "gui.sharedMessages.loadFromComputerTitle": "Load from your computer",
-    "gui.gui.defaultProjectTitle": "Projet Scratch"
+    "gui.gui.defaultProjectTitle": "Projet Scratch",
+    "gui.modal.ok": "confirmer",
+    "gui.modal.cancel": "annuler",
+    "gui.matata.firmwareUpdate": "Vérification de la version du micrologiciel de l’appareil",
+    "gui.matata.firmwareUpdatePreLable": "La version actuelle du micrologiciel de l’appareil: ",
+    "gui.matata.firmwareUpdatePostLable": "La version du micrologiciel ne correspond pas à la version prise en charge par l’extension. Veuillez mettre à niveau le micrologiciel.",
+    "gui.matata.sensorModeMismatch": "Le MatataCon n’est pas en mode capteur, veuillez changer de mode et réessayer.",
+    "gui.matata.carNeedUpdateFirmware": "Veuillez mettre à niveau le MatataBot connecté à ce MatataCon.",
+    "gui.matata.firmwareUpdateButtonText": "Aller à mettre à niveau",
+    "gui.menuBar.mataTutorialsLink": "Tutoriels Matatalab",
+    "gui.extension.matatabot.description": "Connectez vos projets avec le MatataBot.",
+    "gui.extension.matatabot.connectingMessage": "Connexion en cours...",
+    "gui.extension.matatacon.description": "Connectez vos projets avec le MatataCon.",
+    "gui.extension.matatacon.connectingMessage": "Connexion en cours, assurez-vous que le MatataCon est en mode capteur."
 }

@@ -502,5 +502,18 @@
     "gui.sharedMessages.pop": "ポップ",
     "gui.sharedMessages.replaceProjectWarning": "現在のプロジェクトの内容を置き換えますか？",
     "gui.sharedMessages.loadFromComputerTitle": "コンピューターから読み込む",
-    "gui.gui.defaultProjectTitle": "Scratchのプロジェクト"
+    "gui.gui.defaultProjectTitle": "Scratchのプロジェクト",
+    "gui.modal.ok": "確定",
+    "gui.modal.cancel": "キャンセル",
+    "gui.matata.firmwareUpdate": "デバイスのファームウェアバージョンチェック",
+    "gui.matata.firmwareUpdatePreLable": "現在のデバイスのファームウェアバージョン: ",
+    "gui.matata.firmwareUpdatePostLable": "ファームウェアバージョンが拡張機能でサポートされるバージョンと一致しません。ファームウェアをアップグレードしてください。",
+    "gui.matata.sensorModeMismatch": "MatataCon はセンサーモードになっていません。モードを切り替えて、もう一度お試しください。",
+    "gui.matata.carNeedUpdateFirmware": "このMatataConに接続されているMatataBotをアップグレードしてください。",
+    "gui.matata.firmwareUpdateButtonText": "アップグレードに移動する",
+    "gui.menuBar.mataTutorialsLink": "Matatalabのチュートリアル",
+    "gui.extension.matatabot.description": "プロジェクトをMatataBotに接続します。",
+    "gui.extension.matatabot.connectingMessage": "接続するとき...",
+    "gui.extension.matatacon.description": "プロジェクトをMatataConに接続します。",
+    "gui.extension.matatacon.connectingMessage": "接続するとき、MatataConがセンサーモードであることを確認します。"
 }

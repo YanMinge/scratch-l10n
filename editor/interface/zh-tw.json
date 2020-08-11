@@ -502,5 +502,18 @@
     "gui.sharedMessages.pop": "pop",
     "gui.sharedMessages.replaceProjectWarning": "是否取代現有專案？",
     "gui.sharedMessages.loadFromComputerTitle": "從你的電腦挑選",
-    "gui.gui.defaultProjectTitle": "Scratch 專案"
+    "gui.gui.defaultProjectTitle": "Scratch 專案",
+    "gui.modal.ok": "確定",
+    "gui.modal.cancel": "取消",
+    "gui.matata.firmwareUpdate": "固件版本檢測",
+    "gui.matata.firmwareUpdatePreLable": "當前設備固件版本是: ",
+    "gui.matata.firmwareUpdatePostLable": "插件無法支援當前固件版本，需要對固件進行升級。",
+    "gui.matata.sensorModeMismatch": "瑪塔控制器不處於感測器模式，請切換模式後再次嘗試。",
+    "gui.matata.carNeedUpdateFirmware": "有一個需要升級固件的瑪塔機械人連接在該控制器上。",
+    "gui.matata.firmwareUpdateButtonText": "去升級",
+    "gui.menuBar.mataTutorialsLink": "瑪塔教程",
+    "gui.extension.matatabot.description": "把作品連接到瑪塔機械人。",
+    "gui.extension.matatabot.connectingMessage": "正在連接。。。",
+    "gui.extension.matatacon.description": "把作品連接到瑪塔控制器。",
+    "gui.extension.matatacon.connectingMessage": "正在連接，請確保控制器的模式是感測器模式。"
 }

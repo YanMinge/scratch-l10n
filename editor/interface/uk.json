@@ -502,5 +502,18 @@
     "gui.sharedMessages.pop": "поп",
     "gui.sharedMessages.replaceProjectWarning": "Замінити вміст поточного проєкту?",
     "gui.sharedMessages.loadFromComputerTitle": "Завантажити з вашого комп’ютера",
-    "gui.gui.defaultProjectTitle": "Скретч-проєкт"
+    "gui.gui.defaultProjectTitle": "Скретч-проєкт",
+    "gui.modal.ok": "підтвердити",
+    "gui.modal.cancel": "скасувати",
+    "gui.matata.firmwareUpdate": "Перевірка версії прошивки пристрою",
+    "gui.matata.firmwareUpdatePreLable": "Поточна версія прошивки пристрою: ",
+    "gui.matata.firmwareUpdatePostLable": "Версія прошивки не відповідає версії, що підтримується розширенням. Оновіть прошивку.",
+    "gui.matata.sensorModeMismatch": "MatataCon не перебуває у режимі датчика. Перемкніть режим і повторіть спробу.",
+    "gui.matata.carNeedUpdateFirmware": "Оновіть MatataBot, під'єднаний до MatataCon.",
+    "gui.matata.firmwareUpdateButtonText": "Перейти до оновлення",
+    "gui.menuBar.mataTutorialsLink": "Навчальні матеріали Matatalab",
+    "gui.extension.matatabot.description": "Підв'яжіть свої проекти до MatataBot.",
+    "gui.extension.matatabot.connectingMessage": "З'єднання...",
+    "gui.extension.matatacon.description": "Підв'яжіть свої проекти до MatataCon.",
+    "gui.extension.matatacon.connectingMessage": "З'єднання... Переконайтеся, що MatataCon перебуває в режимі датчика."
 }

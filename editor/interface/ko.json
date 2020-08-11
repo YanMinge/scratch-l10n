@@ -502,5 +502,18 @@
     "gui.sharedMessages.pop": "팝",
     "gui.sharedMessages.replaceProjectWarning": "Replace contents of the current project?",
     "gui.sharedMessages.loadFromComputerTitle": "Load from your computer",
-    "gui.gui.defaultProjectTitle": "스크래치 프로젝트"
+    "gui.gui.defaultProjectTitle": "스크래치 프로젝트",
+    "gui.modal.ok": "확인",
+    "gui.modal.cancel": "취소",
+    "gui.matata.firmwareUpdate": "장치 펌웨어 버전 확인",
+    "gui.matata.firmwareUpdatePreLable": "현재 장치 펌웨어 버전: ",
+    "gui.matata.firmwareUpdatePostLable": "펌웨어 버전이 확장에서 지원되는 버전과 일치하지 않습니다. 펌웨어를 업그레이드하십시오.",
+    "gui.matata.sensorModeMismatch": "MatataCon 이 센서 모드 상태가 아니므로 모드를 전환한 후 다시 시도하십시오.",
+    "gui.matata.carNeedUpdateFirmware": "이 MatataCon과 연결된 MatataBot을 업그레이드해 주십시오.",
+    "gui.matata.firmwareUpdateButtonText": "업그레이드로 이동",
+    "gui.menuBar.mataTutorialsLink": "Matatalab 튜토리얼",
+    "gui.extension.matatabot.description": "프로젝트를 MatataBot 과 연결하십시오.",
+    "gui.extension.matatabot.connectingMessage": "연결 중입니다...",
+    "gui.extension.matatacon.description": "프로젝트를 MatataCon 과 연결하십시오.",
+    "gui.extension.matatacon.connectingMessage": "연결 중입니다. MatataCon 이 센서 모드 상태인지 확인하십시오."
 }
